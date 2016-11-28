@@ -1,0 +1,11 @@
+{
+    "port": ":8091",
+    "message": {
+        "endman": "ENDMAN V0.0.1 ~ @matheusrabelo",
+        "addRoute": "Route path: ",
+        "addMethod": "Method for this route: ",
+        "listening": "Listening on port ",
+        "added": "Added route ",
+        "line": "----------------------------------"
+    }
+}
