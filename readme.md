@@ -1,16 +1,16 @@
-#Endman - Alpha 0.0.1
+# Endman
 
-##About
+## About
 
 Endpoint creation made easy
 
-##Usage
+## Usage
 
 - Download or clone the files
 - Add this path to environment variables or stay in this directory
 - Use the **endman** command
 
-##Example
+## Example
 
 ```
 $ go build
@@ -31,6 +31,6 @@ DELETE /endman
 ----------------------------------
 ```
 
-##Author
+## Author
 
 Matheus Freire Rabelo
