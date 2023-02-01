@@ -30,7 +30,3 @@ PUT /endman
 DELETE /endman
 ----------------------------------
 ```
-
-## Author
-
-Matheus Freire Rabelo
