@@ -7,8 +7,8 @@ import (
 
 	"strings"
 
-	Config "github.com/matheusrabelo/Endman/configuration"
-	"github.com/matheusrabelo/Endman/routes"
+	Config "github.com/mtheusrabelo/Endman/configuration"
+	"github.com/mtheusrabelo/Endman/routes"
 )
 
 var addedRoutes []string
