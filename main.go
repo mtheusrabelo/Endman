@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/matheusrabelo/Endman/prompt"
+	"github.com/mtheusrabelo/Endman/prompt"
 )
 
 func main() {
